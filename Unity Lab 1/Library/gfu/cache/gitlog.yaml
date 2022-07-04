@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2022-07-04T11:55:20.636+08:00
+  initializedAtString: 2022-07-04T11:55:20.636+08:00
+  log:
+  - commitID: 4b7035ccf41497c74ec1125bee15020342c1a140
+    mergeA: 
+    mergeB: 
+    authorName: liming_7212
+    authorEmail: 281038535@qq.com
+    commitEmail: 281038535@qq.com
+    commitName: liming_7212
+    summary: Initial commit
+    description: 
+    timeString: 2022-07-04T11:55:11.000+08:00
+    commitTimeString: 2022-07-04T11:55:11.000+08:00
+    changes:
+    - path: .gitattributes
+      fullPath: G:\unity\project\Unity Lab 1\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: G:\unity\project\Unity Lab 1\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: G:\unity\project\Unity Lab 1\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
