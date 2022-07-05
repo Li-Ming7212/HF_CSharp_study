@@ -1,0 +1,16 @@
+G:\HF_CSharp_study\PickACardUI\bin\Debug\PickACardUI.exe.config
+G:\HF_CSharp_study\PickACardUI\bin\Debug\PickACardUI.exe
+G:\HF_CSharp_study\PickACardUI\bin\Debug\PickACardUI.pdb
+G:\HF_CSharp_study\PickACardUI\obj\Debug\PickACardUI.csproj.AssemblyReference.cache
+G:\HF_CSharp_study\PickACardUI\obj\Debug\PickACardUI.csproj.SuggestedBindingRedirects.cache
+G:\HF_CSharp_study\PickACardUI\obj\Debug\MainWindow.g.cs
+G:\HF_CSharp_study\PickACardUI\obj\Debug\App.g.cs
+G:\HF_CSharp_study\PickACardUI\obj\Debug\PickACardUI_MarkupCompile.cache
+G:\HF_CSharp_study\PickACardUI\obj\Debug\PickACardUI_MarkupCompile.lref
+G:\HF_CSharp_study\PickACardUI\obj\Debug\MainWindow.baml
+G:\HF_CSharp_study\PickACardUI\obj\Debug\PickACardUI.g.resources
+G:\HF_CSharp_study\PickACardUI\obj\Debug\PickACardUI.Properties.Resources.resources
+G:\HF_CSharp_study\PickACardUI\obj\Debug\PickACardUI.csproj.GenerateResource.cache
+G:\HF_CSharp_study\PickACardUI\obj\Debug\PickACardUI.csproj.CoreCompileInputs.cache
+G:\HF_CSharp_study\PickACardUI\obj\Debug\PickACardUI.exe
+G:\HF_CSharp_study\PickACardUI\obj\Debug\PickACardUI.pdb

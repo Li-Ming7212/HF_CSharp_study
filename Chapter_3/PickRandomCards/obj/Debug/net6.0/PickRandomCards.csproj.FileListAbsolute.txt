@@ -1,0 +1,15 @@
+G:\HF_CSharp_study\PickRandomCards\bin\Debug\net6.0\PickRandomCards.exe
+G:\HF_CSharp_study\PickRandomCards\bin\Debug\net6.0\PickRandomCards.deps.json
+G:\HF_CSharp_study\PickRandomCards\bin\Debug\net6.0\PickRandomCards.runtimeconfig.json
+G:\HF_CSharp_study\PickRandomCards\bin\Debug\net6.0\PickRandomCards.dll
+G:\HF_CSharp_study\PickRandomCards\bin\Debug\net6.0\PickRandomCards.pdb
+G:\HF_CSharp_study\PickRandomCards\obj\Debug\net6.0\PickRandomCards.csproj.AssemblyReference.cache
+G:\HF_CSharp_study\PickRandomCards\obj\Debug\net6.0\PickRandomCards.GeneratedMSBuildEditorConfig.editorconfig
+G:\HF_CSharp_study\PickRandomCards\obj\Debug\net6.0\PickRandomCards.AssemblyInfoInputs.cache
+G:\HF_CSharp_study\PickRandomCards\obj\Debug\net6.0\PickRandomCards.AssemblyInfo.cs
+G:\HF_CSharp_study\PickRandomCards\obj\Debug\net6.0\PickRandomCards.csproj.CoreCompileInputs.cache
+G:\HF_CSharp_study\PickRandomCards\obj\Debug\net6.0\PickRandomCards.dll
+G:\HF_CSharp_study\PickRandomCards\obj\Debug\net6.0\refint\PickRandomCards.dll
+G:\HF_CSharp_study\PickRandomCards\obj\Debug\net6.0\PickRandomCards.pdb
+G:\HF_CSharp_study\PickRandomCards\obj\Debug\net6.0\PickRandomCards.genruntimeconfig.cache
+G:\HF_CSharp_study\PickRandomCards\obj\Debug\net6.0\ref\PickRandomCards.dll
