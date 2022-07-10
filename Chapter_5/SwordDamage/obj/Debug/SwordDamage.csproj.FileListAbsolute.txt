@@ -1,0 +1,16 @@
+G:\HF_CSharp_study\Chapter_5\SwordDamage\obj\Debug\SwordDamage.csproj.AssemblyReference.cache
+G:\HF_CSharp_study\Chapter_5\SwordDamage\obj\Debug\SwordDamage.csproj.SuggestedBindingRedirects.cache
+G:\HF_CSharp_study\Chapter_5\SwordDamage\obj\Debug\MainWindow.g.cs
+G:\HF_CSharp_study\Chapter_5\SwordDamage\obj\Debug\App.g.cs
+G:\HF_CSharp_study\Chapter_5\SwordDamage\obj\Debug\SwordDamage_MarkupCompile.cache
+G:\HF_CSharp_study\Chapter_5\SwordDamage\obj\Debug\SwordDamage_MarkupCompile.lref
+G:\HF_CSharp_study\Chapter_5\SwordDamage\bin\Debug\SwordDamage.exe.config
+G:\HF_CSharp_study\Chapter_5\SwordDamage\bin\Debug\SwordDamage.exe
+G:\HF_CSharp_study\Chapter_5\SwordDamage\bin\Debug\SwordDamage.pdb
+G:\HF_CSharp_study\Chapter_5\SwordDamage\obj\Debug\MainWindow.baml
+G:\HF_CSharp_study\Chapter_5\SwordDamage\obj\Debug\SwordDamage.g.resources
+G:\HF_CSharp_study\Chapter_5\SwordDamage\obj\Debug\SwordDamage.Properties.Resources.resources
+G:\HF_CSharp_study\Chapter_5\SwordDamage\obj\Debug\SwordDamage.csproj.GenerateResource.cache
+G:\HF_CSharp_study\Chapter_5\SwordDamage\obj\Debug\SwordDamage.csproj.CoreCompileInputs.cache
+G:\HF_CSharp_study\Chapter_5\SwordDamage\obj\Debug\SwordDamage.exe
+G:\HF_CSharp_study\Chapter_5\SwordDamage\obj\Debug\SwordDamage.pdb

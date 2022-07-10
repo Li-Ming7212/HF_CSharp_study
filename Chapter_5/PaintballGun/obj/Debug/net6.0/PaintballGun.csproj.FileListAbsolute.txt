@@ -1,0 +1,15 @@
+G:\HF_CSharp_study\Chapter_5\PaintballGun\bin\Debug\net6.0\PaintballGun.exe
+G:\HF_CSharp_study\Chapter_5\PaintballGun\bin\Debug\net6.0\PaintballGun.deps.json
+G:\HF_CSharp_study\Chapter_5\PaintballGun\bin\Debug\net6.0\PaintballGun.runtimeconfig.json
+G:\HF_CSharp_study\Chapter_5\PaintballGun\bin\Debug\net6.0\PaintballGun.dll
+G:\HF_CSharp_study\Chapter_5\PaintballGun\bin\Debug\net6.0\PaintballGun.pdb
+G:\HF_CSharp_study\Chapter_5\PaintballGun\obj\Debug\net6.0\PaintballGun.csproj.AssemblyReference.cache
+G:\HF_CSharp_study\Chapter_5\PaintballGun\obj\Debug\net6.0\PaintballGun.GeneratedMSBuildEditorConfig.editorconfig
+G:\HF_CSharp_study\Chapter_5\PaintballGun\obj\Debug\net6.0\PaintballGun.AssemblyInfoInputs.cache
+G:\HF_CSharp_study\Chapter_5\PaintballGun\obj\Debug\net6.0\PaintballGun.AssemblyInfo.cs
+G:\HF_CSharp_study\Chapter_5\PaintballGun\obj\Debug\net6.0\PaintballGun.csproj.CoreCompileInputs.cache
+G:\HF_CSharp_study\Chapter_5\PaintballGun\obj\Debug\net6.0\PaintballGun.dll
+G:\HF_CSharp_study\Chapter_5\PaintballGun\obj\Debug\net6.0\refint\PaintballGun.dll
+G:\HF_CSharp_study\Chapter_5\PaintballGun\obj\Debug\net6.0\PaintballGun.pdb
+G:\HF_CSharp_study\Chapter_5\PaintballGun\obj\Debug\net6.0\PaintballGun.genruntimeconfig.cache
+G:\HF_CSharp_study\Chapter_5\PaintballGun\obj\Debug\net6.0\ref\PaintballGun.dll
