@@ -1,0 +1,14 @@
+G:\HF_CSharp_study\Chapter_6\PigeonAndOstrich\PigeonAndOstrich\bin\Debug\netcoreapp3.1\PigeonAndOstrich.exe
+G:\HF_CSharp_study\Chapter_6\PigeonAndOstrich\PigeonAndOstrich\bin\Debug\netcoreapp3.1\PigeonAndOstrich.deps.json
+G:\HF_CSharp_study\Chapter_6\PigeonAndOstrich\PigeonAndOstrich\bin\Debug\netcoreapp3.1\PigeonAndOstrich.runtimeconfig.json
+G:\HF_CSharp_study\Chapter_6\PigeonAndOstrich\PigeonAndOstrich\bin\Debug\netcoreapp3.1\PigeonAndOstrich.runtimeconfig.dev.json
+G:\HF_CSharp_study\Chapter_6\PigeonAndOstrich\PigeonAndOstrich\bin\Debug\netcoreapp3.1\PigeonAndOstrich.dll
+G:\HF_CSharp_study\Chapter_6\PigeonAndOstrich\PigeonAndOstrich\bin\Debug\netcoreapp3.1\PigeonAndOstrich.pdb
+G:\HF_CSharp_study\Chapter_6\PigeonAndOstrich\PigeonAndOstrich\obj\Debug\netcoreapp3.1\PigeonAndOstrich.csproj.AssemblyReference.cache
+G:\HF_CSharp_study\Chapter_6\PigeonAndOstrich\PigeonAndOstrich\obj\Debug\netcoreapp3.1\PigeonAndOstrich.GeneratedMSBuildEditorConfig.editorconfig
+G:\HF_CSharp_study\Chapter_6\PigeonAndOstrich\PigeonAndOstrich\obj\Debug\netcoreapp3.1\PigeonAndOstrich.AssemblyInfoInputs.cache
+G:\HF_CSharp_study\Chapter_6\PigeonAndOstrich\PigeonAndOstrich\obj\Debug\netcoreapp3.1\PigeonAndOstrich.AssemblyInfo.cs
+G:\HF_CSharp_study\Chapter_6\PigeonAndOstrich\PigeonAndOstrich\obj\Debug\netcoreapp3.1\PigeonAndOstrich.csproj.CoreCompileInputs.cache
+G:\HF_CSharp_study\Chapter_6\PigeonAndOstrich\PigeonAndOstrich\obj\Debug\netcoreapp3.1\PigeonAndOstrich.dll
+G:\HF_CSharp_study\Chapter_6\PigeonAndOstrich\PigeonAndOstrich\obj\Debug\netcoreapp3.1\PigeonAndOstrich.pdb
+G:\HF_CSharp_study\Chapter_6\PigeonAndOstrich\PigeonAndOstrich\obj\Debug\netcoreapp3.1\PigeonAndOstrich.genruntimeconfig.cache

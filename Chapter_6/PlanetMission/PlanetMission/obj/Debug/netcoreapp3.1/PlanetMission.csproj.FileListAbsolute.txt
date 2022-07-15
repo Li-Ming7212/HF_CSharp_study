@@ -1,0 +1,14 @@
+G:\HF_CSharp_study\Chapter_6\PlanetMission\PlanetMission\obj\Debug\netcoreapp3.1\PlanetMission.csproj.AssemblyReference.cache
+G:\HF_CSharp_study\Chapter_6\PlanetMission\PlanetMission\obj\Debug\netcoreapp3.1\PlanetMission.GeneratedMSBuildEditorConfig.editorconfig
+G:\HF_CSharp_study\Chapter_6\PlanetMission\PlanetMission\obj\Debug\netcoreapp3.1\PlanetMission.AssemblyInfoInputs.cache
+G:\HF_CSharp_study\Chapter_6\PlanetMission\PlanetMission\obj\Debug\netcoreapp3.1\PlanetMission.AssemblyInfo.cs
+G:\HF_CSharp_study\Chapter_6\PlanetMission\PlanetMission\obj\Debug\netcoreapp3.1\PlanetMission.csproj.CoreCompileInputs.cache
+G:\HF_CSharp_study\Chapter_6\PlanetMission\PlanetMission\bin\Debug\netcoreapp3.1\PlanetMission.exe
+G:\HF_CSharp_study\Chapter_6\PlanetMission\PlanetMission\bin\Debug\netcoreapp3.1\PlanetMission.deps.json
+G:\HF_CSharp_study\Chapter_6\PlanetMission\PlanetMission\bin\Debug\netcoreapp3.1\PlanetMission.runtimeconfig.json
+G:\HF_CSharp_study\Chapter_6\PlanetMission\PlanetMission\bin\Debug\netcoreapp3.1\PlanetMission.runtimeconfig.dev.json
+G:\HF_CSharp_study\Chapter_6\PlanetMission\PlanetMission\bin\Debug\netcoreapp3.1\PlanetMission.dll
+G:\HF_CSharp_study\Chapter_6\PlanetMission\PlanetMission\bin\Debug\netcoreapp3.1\PlanetMission.pdb
+G:\HF_CSharp_study\Chapter_6\PlanetMission\PlanetMission\obj\Debug\netcoreapp3.1\PlanetMission.dll
+G:\HF_CSharp_study\Chapter_6\PlanetMission\PlanetMission\obj\Debug\netcoreapp3.1\PlanetMission.pdb
+G:\HF_CSharp_study\Chapter_6\PlanetMission\PlanetMission\obj\Debug\netcoreapp3.1\PlanetMission.genruntimeconfig.cache

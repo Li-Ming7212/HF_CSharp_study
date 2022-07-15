@@ -1,0 +1,15 @@
+G:\HF_CSharp_study\Chapter_6\WeaponDamage\bin\Debug\net6.0\WeaponDamage.exe
+G:\HF_CSharp_study\Chapter_6\WeaponDamage\bin\Debug\net6.0\WeaponDamage.deps.json
+G:\HF_CSharp_study\Chapter_6\WeaponDamage\bin\Debug\net6.0\WeaponDamage.runtimeconfig.json
+G:\HF_CSharp_study\Chapter_6\WeaponDamage\bin\Debug\net6.0\WeaponDamage.dll
+G:\HF_CSharp_study\Chapter_6\WeaponDamage\bin\Debug\net6.0\WeaponDamage.pdb
+G:\HF_CSharp_study\Chapter_6\WeaponDamage\obj\Debug\net6.0\WeaponDamage.csproj.AssemblyReference.cache
+G:\HF_CSharp_study\Chapter_6\WeaponDamage\obj\Debug\net6.0\WeaponDamage.GeneratedMSBuildEditorConfig.editorconfig
+G:\HF_CSharp_study\Chapter_6\WeaponDamage\obj\Debug\net6.0\WeaponDamage.AssemblyInfoInputs.cache
+G:\HF_CSharp_study\Chapter_6\WeaponDamage\obj\Debug\net6.0\WeaponDamage.AssemblyInfo.cs
+G:\HF_CSharp_study\Chapter_6\WeaponDamage\obj\Debug\net6.0\WeaponDamage.csproj.CoreCompileInputs.cache
+G:\HF_CSharp_study\Chapter_6\WeaponDamage\obj\Debug\net6.0\WeaponDamage.dll
+G:\HF_CSharp_study\Chapter_6\WeaponDamage\obj\Debug\net6.0\refint\WeaponDamage.dll
+G:\HF_CSharp_study\Chapter_6\WeaponDamage\obj\Debug\net6.0\WeaponDamage.pdb
+G:\HF_CSharp_study\Chapter_6\WeaponDamage\obj\Debug\net6.0\WeaponDamage.genruntimeconfig.cache
+G:\HF_CSharp_study\Chapter_6\WeaponDamage\obj\Debug\net6.0\ref\WeaponDamage.dll
