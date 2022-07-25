@@ -1,0 +1,14 @@
+G:\HF_CSharp_study\Chapter_8\BaseballPlayers\BaseballPlayers\bin\Debug\netcoreapp3.1\BaseballPlayers.exe
+G:\HF_CSharp_study\Chapter_8\BaseballPlayers\BaseballPlayers\bin\Debug\netcoreapp3.1\BaseballPlayers.deps.json
+G:\HF_CSharp_study\Chapter_8\BaseballPlayers\BaseballPlayers\bin\Debug\netcoreapp3.1\BaseballPlayers.runtimeconfig.json
+G:\HF_CSharp_study\Chapter_8\BaseballPlayers\BaseballPlayers\bin\Debug\netcoreapp3.1\BaseballPlayers.runtimeconfig.dev.json
+G:\HF_CSharp_study\Chapter_8\BaseballPlayers\BaseballPlayers\bin\Debug\netcoreapp3.1\BaseballPlayers.dll
+G:\HF_CSharp_study\Chapter_8\BaseballPlayers\BaseballPlayers\bin\Debug\netcoreapp3.1\BaseballPlayers.pdb
+G:\HF_CSharp_study\Chapter_8\BaseballPlayers\BaseballPlayers\obj\Debug\netcoreapp3.1\BaseballPlayers.csproj.AssemblyReference.cache
+G:\HF_CSharp_study\Chapter_8\BaseballPlayers\BaseballPlayers\obj\Debug\netcoreapp3.1\BaseballPlayers.GeneratedMSBuildEditorConfig.editorconfig
+G:\HF_CSharp_study\Chapter_8\BaseballPlayers\BaseballPlayers\obj\Debug\netcoreapp3.1\BaseballPlayers.AssemblyInfoInputs.cache
+G:\HF_CSharp_study\Chapter_8\BaseballPlayers\BaseballPlayers\obj\Debug\netcoreapp3.1\BaseballPlayers.AssemblyInfo.cs
+G:\HF_CSharp_study\Chapter_8\BaseballPlayers\BaseballPlayers\obj\Debug\netcoreapp3.1\BaseballPlayers.csproj.CoreCompileInputs.cache
+G:\HF_CSharp_study\Chapter_8\BaseballPlayers\BaseballPlayers\obj\Debug\netcoreapp3.1\BaseballPlayers.dll
+G:\HF_CSharp_study\Chapter_8\BaseballPlayers\BaseballPlayers\obj\Debug\netcoreapp3.1\BaseballPlayers.pdb
+G:\HF_CSharp_study\Chapter_8\BaseballPlayers\BaseballPlayers\obj\Debug\netcoreapp3.1\BaseballPlayers.genruntimeconfig.cache

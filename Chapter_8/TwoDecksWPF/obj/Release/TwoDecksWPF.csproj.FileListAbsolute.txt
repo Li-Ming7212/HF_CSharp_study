@@ -1,0 +1,17 @@
+G:\HF_CSharp_study\Chapter_8\TwoDecksWPF\bin\Release\TwoDecksWPF.exe.config
+G:\HF_CSharp_study\Chapter_8\TwoDecksWPF\bin\Release\TwoDecksWPF.exe
+G:\HF_CSharp_study\Chapter_8\TwoDecksWPF\bin\Release\TwoDecksWPF.pdb
+G:\HF_CSharp_study\Chapter_8\TwoDecksWPF\obj\Release\TwoDecksWPF.csproj.AssemblyReference.cache
+G:\HF_CSharp_study\Chapter_8\TwoDecksWPF\obj\Release\TwoDecksWPF.csproj.SuggestedBindingRedirects.cache
+G:\HF_CSharp_study\Chapter_8\TwoDecksWPF\obj\Release\MainWindow.g.cs
+G:\HF_CSharp_study\Chapter_8\TwoDecksWPF\obj\Release\App.g.cs
+G:\HF_CSharp_study\Chapter_8\TwoDecksWPF\obj\Release\GeneratedInternalTypeHelper.g.cs
+G:\HF_CSharp_study\Chapter_8\TwoDecksWPF\obj\Release\TwoDecksWPF_MarkupCompile.cache
+G:\HF_CSharp_study\Chapter_8\TwoDecksWPF\obj\Release\TwoDecksWPF_MarkupCompile.lref
+G:\HF_CSharp_study\Chapter_8\TwoDecksWPF\obj\Release\MainWindow.baml
+G:\HF_CSharp_study\Chapter_8\TwoDecksWPF\obj\Release\TwoDecksWPF.g.resources
+G:\HF_CSharp_study\Chapter_8\TwoDecksWPF\obj\Release\TwoDecksWPF.Properties.Resources.resources
+G:\HF_CSharp_study\Chapter_8\TwoDecksWPF\obj\Release\TwoDecksWPF.csproj.GenerateResource.cache
+G:\HF_CSharp_study\Chapter_8\TwoDecksWPF\obj\Release\TwoDecksWPF.csproj.CoreCompileInputs.cache
+G:\HF_CSharp_study\Chapter_8\TwoDecksWPF\obj\Release\TwoDecksWPF.exe
+G:\HF_CSharp_study\Chapter_8\TwoDecksWPF\obj\Release\TwoDecksWPF.pdb

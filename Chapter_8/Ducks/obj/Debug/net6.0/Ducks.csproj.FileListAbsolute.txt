@@ -1,0 +1,15 @@
+G:\HF_CSharp_study\Chapter_8\Ducks\bin\Debug\net6.0\Ducks.exe
+G:\HF_CSharp_study\Chapter_8\Ducks\bin\Debug\net6.0\Ducks.deps.json
+G:\HF_CSharp_study\Chapter_8\Ducks\bin\Debug\net6.0\Ducks.runtimeconfig.json
+G:\HF_CSharp_study\Chapter_8\Ducks\bin\Debug\net6.0\Ducks.dll
+G:\HF_CSharp_study\Chapter_8\Ducks\bin\Debug\net6.0\Ducks.pdb
+G:\HF_CSharp_study\Chapter_8\Ducks\obj\Debug\net6.0\Ducks.csproj.AssemblyReference.cache
+G:\HF_CSharp_study\Chapter_8\Ducks\obj\Debug\net6.0\Ducks.GeneratedMSBuildEditorConfig.editorconfig
+G:\HF_CSharp_study\Chapter_8\Ducks\obj\Debug\net6.0\Ducks.AssemblyInfoInputs.cache
+G:\HF_CSharp_study\Chapter_8\Ducks\obj\Debug\net6.0\Ducks.AssemblyInfo.cs
+G:\HF_CSharp_study\Chapter_8\Ducks\obj\Debug\net6.0\Ducks.csproj.CoreCompileInputs.cache
+G:\HF_CSharp_study\Chapter_8\Ducks\obj\Debug\net6.0\Ducks.dll
+G:\HF_CSharp_study\Chapter_8\Ducks\obj\Debug\net6.0\refint\Ducks.dll
+G:\HF_CSharp_study\Chapter_8\Ducks\obj\Debug\net6.0\Ducks.pdb
+G:\HF_CSharp_study\Chapter_8\Ducks\obj\Debug\net6.0\Ducks.genruntimeconfig.cache
+G:\HF_CSharp_study\Chapter_8\Ducks\obj\Debug\net6.0\ref\Ducks.dll

@@ -1,0 +1,15 @@
+G:\HF_CSharp_study\Chapter_8\JumbledCards\bin\Debug\net6.0\JumbledCards.exe
+G:\HF_CSharp_study\Chapter_8\JumbledCards\bin\Debug\net6.0\JumbledCards.deps.json
+G:\HF_CSharp_study\Chapter_8\JumbledCards\bin\Debug\net6.0\JumbledCards.runtimeconfig.json
+G:\HF_CSharp_study\Chapter_8\JumbledCards\bin\Debug\net6.0\JumbledCards.dll
+G:\HF_CSharp_study\Chapter_8\JumbledCards\bin\Debug\net6.0\JumbledCards.pdb
+G:\HF_CSharp_study\Chapter_8\JumbledCards\obj\Debug\net6.0\JumbledCards.csproj.AssemblyReference.cache
+G:\HF_CSharp_study\Chapter_8\JumbledCards\obj\Debug\net6.0\JumbledCards.GeneratedMSBuildEditorConfig.editorconfig
+G:\HF_CSharp_study\Chapter_8\JumbledCards\obj\Debug\net6.0\JumbledCards.AssemblyInfoInputs.cache
+G:\HF_CSharp_study\Chapter_8\JumbledCards\obj\Debug\net6.0\JumbledCards.AssemblyInfo.cs
+G:\HF_CSharp_study\Chapter_8\JumbledCards\obj\Debug\net6.0\JumbledCards.csproj.CoreCompileInputs.cache
+G:\HF_CSharp_study\Chapter_8\JumbledCards\obj\Debug\net6.0\JumbledCards.dll
+G:\HF_CSharp_study\Chapter_8\JumbledCards\obj\Debug\net6.0\refint\JumbledCards.dll
+G:\HF_CSharp_study\Chapter_8\JumbledCards\obj\Debug\net6.0\JumbledCards.pdb
+G:\HF_CSharp_study\Chapter_8\JumbledCards\obj\Debug\net6.0\JumbledCards.genruntimeconfig.cache
+G:\HF_CSharp_study\Chapter_8\JumbledCards\obj\Debug\net6.0\ref\JumbledCards.dll
