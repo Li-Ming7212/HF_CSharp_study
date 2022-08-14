@@ -1,0 +1,15 @@
+G:\HF_CSharp_study\Chapter_10\HideAndSeek\HideAndSeek\bin\Debug\net6.0\HideAndSeek.exe
+G:\HF_CSharp_study\Chapter_10\HideAndSeek\HideAndSeek\bin\Debug\net6.0\HideAndSeek.deps.json
+G:\HF_CSharp_study\Chapter_10\HideAndSeek\HideAndSeek\bin\Debug\net6.0\HideAndSeek.runtimeconfig.json
+G:\HF_CSharp_study\Chapter_10\HideAndSeek\HideAndSeek\bin\Debug\net6.0\HideAndSeek.dll
+G:\HF_CSharp_study\Chapter_10\HideAndSeek\HideAndSeek\bin\Debug\net6.0\HideAndSeek.pdb
+G:\HF_CSharp_study\Chapter_10\HideAndSeek\HideAndSeek\obj\Debug\net6.0\HideAndSeek.csproj.AssemblyReference.cache
+G:\HF_CSharp_study\Chapter_10\HideAndSeek\HideAndSeek\obj\Debug\net6.0\HideAndSeek.GeneratedMSBuildEditorConfig.editorconfig
+G:\HF_CSharp_study\Chapter_10\HideAndSeek\HideAndSeek\obj\Debug\net6.0\HideAndSeek.AssemblyInfoInputs.cache
+G:\HF_CSharp_study\Chapter_10\HideAndSeek\HideAndSeek\obj\Debug\net6.0\HideAndSeek.AssemblyInfo.cs
+G:\HF_CSharp_study\Chapter_10\HideAndSeek\HideAndSeek\obj\Debug\net6.0\HideAndSeek.csproj.CoreCompileInputs.cache
+G:\HF_CSharp_study\Chapter_10\HideAndSeek\HideAndSeek\obj\Debug\net6.0\HideAndSeek.dll
+G:\HF_CSharp_study\Chapter_10\HideAndSeek\HideAndSeek\obj\Debug\net6.0\refint\HideAndSeek.dll
+G:\HF_CSharp_study\Chapter_10\HideAndSeek\HideAndSeek\obj\Debug\net6.0\HideAndSeek.pdb
+G:\HF_CSharp_study\Chapter_10\HideAndSeek\HideAndSeek\obj\Debug\net6.0\HideAndSeek.genruntimeconfig.cache
+G:\HF_CSharp_study\Chapter_10\HideAndSeek\HideAndSeek\obj\Debug\net6.0\ref\HideAndSeek.dll

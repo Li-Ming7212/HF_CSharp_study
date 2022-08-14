@@ -1,0 +1,15 @@
+G:\HF_CSharp_study\Chapter_10\UseABinaryWriter\bin\Debug\net6.0\UseABinaryWriter.exe
+G:\HF_CSharp_study\Chapter_10\UseABinaryWriter\bin\Debug\net6.0\UseABinaryWriter.deps.json
+G:\HF_CSharp_study\Chapter_10\UseABinaryWriter\bin\Debug\net6.0\UseABinaryWriter.runtimeconfig.json
+G:\HF_CSharp_study\Chapter_10\UseABinaryWriter\bin\Debug\net6.0\UseABinaryWriter.dll
+G:\HF_CSharp_study\Chapter_10\UseABinaryWriter\bin\Debug\net6.0\UseABinaryWriter.pdb
+G:\HF_CSharp_study\Chapter_10\UseABinaryWriter\obj\Debug\net6.0\UseABinaryWriter.csproj.AssemblyReference.cache
+G:\HF_CSharp_study\Chapter_10\UseABinaryWriter\obj\Debug\net6.0\UseABinaryWriter.GeneratedMSBuildEditorConfig.editorconfig
+G:\HF_CSharp_study\Chapter_10\UseABinaryWriter\obj\Debug\net6.0\UseABinaryWriter.AssemblyInfoInputs.cache
+G:\HF_CSharp_study\Chapter_10\UseABinaryWriter\obj\Debug\net6.0\UseABinaryWriter.AssemblyInfo.cs
+G:\HF_CSharp_study\Chapter_10\UseABinaryWriter\obj\Debug\net6.0\UseABinaryWriter.csproj.CoreCompileInputs.cache
+G:\HF_CSharp_study\Chapter_10\UseABinaryWriter\obj\Debug\net6.0\UseABinaryWriter.dll
+G:\HF_CSharp_study\Chapter_10\UseABinaryWriter\obj\Debug\net6.0\refint\UseABinaryWriter.dll
+G:\HF_CSharp_study\Chapter_10\UseABinaryWriter\obj\Debug\net6.0\UseABinaryWriter.pdb
+G:\HF_CSharp_study\Chapter_10\UseABinaryWriter\obj\Debug\net6.0\UseABinaryWriter.genruntimeconfig.cache
+G:\HF_CSharp_study\Chapter_10\UseABinaryWriter\obj\Debug\net6.0\ref\UseABinaryWriter.dll

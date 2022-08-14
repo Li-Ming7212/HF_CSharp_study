@@ -1,0 +1,14 @@
+G:\HF_CSharp_study\Chapter_9\LinqWorksWithObjects\LinqWorksWithObjects\bin\Debug\netcoreapp3.1\LinqWorksWithObjects.exe
+G:\HF_CSharp_study\Chapter_9\LinqWorksWithObjects\LinqWorksWithObjects\bin\Debug\netcoreapp3.1\LinqWorksWithObjects.deps.json
+G:\HF_CSharp_study\Chapter_9\LinqWorksWithObjects\LinqWorksWithObjects\bin\Debug\netcoreapp3.1\LinqWorksWithObjects.runtimeconfig.json
+G:\HF_CSharp_study\Chapter_9\LinqWorksWithObjects\LinqWorksWithObjects\bin\Debug\netcoreapp3.1\LinqWorksWithObjects.runtimeconfig.dev.json
+G:\HF_CSharp_study\Chapter_9\LinqWorksWithObjects\LinqWorksWithObjects\bin\Debug\netcoreapp3.1\LinqWorksWithObjects.dll
+G:\HF_CSharp_study\Chapter_9\LinqWorksWithObjects\LinqWorksWithObjects\bin\Debug\netcoreapp3.1\LinqWorksWithObjects.pdb
+G:\HF_CSharp_study\Chapter_9\LinqWorksWithObjects\LinqWorksWithObjects\obj\Debug\netcoreapp3.1\LinqWorksWithObjects.csproj.AssemblyReference.cache
+G:\HF_CSharp_study\Chapter_9\LinqWorksWithObjects\LinqWorksWithObjects\obj\Debug\netcoreapp3.1\LinqWorksWithObjects.GeneratedMSBuildEditorConfig.editorconfig
+G:\HF_CSharp_study\Chapter_9\LinqWorksWithObjects\LinqWorksWithObjects\obj\Debug\netcoreapp3.1\LinqWorksWithObjects.AssemblyInfoInputs.cache
+G:\HF_CSharp_study\Chapter_9\LinqWorksWithObjects\LinqWorksWithObjects\obj\Debug\netcoreapp3.1\LinqWorksWithObjects.AssemblyInfo.cs
+G:\HF_CSharp_study\Chapter_9\LinqWorksWithObjects\LinqWorksWithObjects\obj\Debug\netcoreapp3.1\LinqWorksWithObjects.csproj.CoreCompileInputs.cache
+G:\HF_CSharp_study\Chapter_9\LinqWorksWithObjects\LinqWorksWithObjects\obj\Debug\netcoreapp3.1\LinqWorksWithObjects.dll
+G:\HF_CSharp_study\Chapter_9\LinqWorksWithObjects\LinqWorksWithObjects\obj\Debug\netcoreapp3.1\LinqWorksWithObjects.pdb
+G:\HF_CSharp_study\Chapter_9\LinqWorksWithObjects\LinqWorksWithObjects\obj\Debug\netcoreapp3.1\LinqWorksWithObjects.genruntimeconfig.cache

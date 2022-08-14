@@ -1,0 +1,15 @@
+G:\HF_CSharp_study\Chapter_10\UseAMemoryStream\bin\Debug\net6.0\UseAMemoryStream.exe
+G:\HF_CSharp_study\Chapter_10\UseAMemoryStream\bin\Debug\net6.0\UseAMemoryStream.deps.json
+G:\HF_CSharp_study\Chapter_10\UseAMemoryStream\bin\Debug\net6.0\UseAMemoryStream.runtimeconfig.json
+G:\HF_CSharp_study\Chapter_10\UseAMemoryStream\bin\Debug\net6.0\UseAMemoryStream.dll
+G:\HF_CSharp_study\Chapter_10\UseAMemoryStream\bin\Debug\net6.0\UseAMemoryStream.pdb
+G:\HF_CSharp_study\Chapter_10\UseAMemoryStream\obj\Debug\net6.0\UseAMemoryStream.csproj.AssemblyReference.cache
+G:\HF_CSharp_study\Chapter_10\UseAMemoryStream\obj\Debug\net6.0\UseAMemoryStream.GeneratedMSBuildEditorConfig.editorconfig
+G:\HF_CSharp_study\Chapter_10\UseAMemoryStream\obj\Debug\net6.0\UseAMemoryStream.AssemblyInfoInputs.cache
+G:\HF_CSharp_study\Chapter_10\UseAMemoryStream\obj\Debug\net6.0\UseAMemoryStream.AssemblyInfo.cs
+G:\HF_CSharp_study\Chapter_10\UseAMemoryStream\obj\Debug\net6.0\UseAMemoryStream.csproj.CoreCompileInputs.cache
+G:\HF_CSharp_study\Chapter_10\UseAMemoryStream\obj\Debug\net6.0\UseAMemoryStream.dll
+G:\HF_CSharp_study\Chapter_10\UseAMemoryStream\obj\Debug\net6.0\refint\UseAMemoryStream.dll
+G:\HF_CSharp_study\Chapter_10\UseAMemoryStream\obj\Debug\net6.0\UseAMemoryStream.pdb
+G:\HF_CSharp_study\Chapter_10\UseAMemoryStream\obj\Debug\net6.0\UseAMemoryStream.genruntimeconfig.cache
+G:\HF_CSharp_study\Chapter_10\UseAMemoryStream\obj\Debug\net6.0\ref\UseAMemoryStream.dll

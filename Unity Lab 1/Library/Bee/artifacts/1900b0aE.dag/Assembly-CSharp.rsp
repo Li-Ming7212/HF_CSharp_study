@@ -347,6 +347,9 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/scripts/GameController.cs"
 "Assets/scripts/Lab 1_2/BallBehaviour.cs"
+"Assets/scripts/MoveCamera.cs"
+"Assets/scripts/MoveObstacle.cs"
+"Assets/scripts/MoveToClick.cs"
 "Assets/scripts/OneBallBehaviour.cs"
 -langversion:9.0
 

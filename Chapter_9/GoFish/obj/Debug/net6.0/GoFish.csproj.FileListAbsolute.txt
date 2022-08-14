@@ -1,0 +1,15 @@
+G:\HF_CSharp_study\Chapter_9\GoFish\bin\Debug\net6.0\GoFish.exe
+G:\HF_CSharp_study\Chapter_9\GoFish\bin\Debug\net6.0\GoFish.deps.json
+G:\HF_CSharp_study\Chapter_9\GoFish\bin\Debug\net6.0\GoFish.runtimeconfig.json
+G:\HF_CSharp_study\Chapter_9\GoFish\bin\Debug\net6.0\GoFish.dll
+G:\HF_CSharp_study\Chapter_9\GoFish\bin\Debug\net6.0\GoFish.pdb
+G:\HF_CSharp_study\Chapter_9\GoFish\obj\Debug\net6.0\GoFish.csproj.AssemblyReference.cache
+G:\HF_CSharp_study\Chapter_9\GoFish\obj\Debug\net6.0\GoFish.GeneratedMSBuildEditorConfig.editorconfig
+G:\HF_CSharp_study\Chapter_9\GoFish\obj\Debug\net6.0\GoFish.AssemblyInfoInputs.cache
+G:\HF_CSharp_study\Chapter_9\GoFish\obj\Debug\net6.0\GoFish.AssemblyInfo.cs
+G:\HF_CSharp_study\Chapter_9\GoFish\obj\Debug\net6.0\GoFish.csproj.CoreCompileInputs.cache
+G:\HF_CSharp_study\Chapter_9\GoFish\obj\Debug\net6.0\GoFish.dll
+G:\HF_CSharp_study\Chapter_9\GoFish\obj\Debug\net6.0\refint\GoFish.dll
+G:\HF_CSharp_study\Chapter_9\GoFish\obj\Debug\net6.0\GoFish.pdb
+G:\HF_CSharp_study\Chapter_9\GoFish\obj\Debug\net6.0\GoFish.genruntimeconfig.cache
+G:\HF_CSharp_study\Chapter_9\GoFish\obj\Debug\net6.0\ref\GoFish.dll

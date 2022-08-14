@@ -1,0 +1,15 @@
+G:\HF_CSharp_study\Chapter_10\WriteADeck\bin\Debug\net6.0\WriteADeck.exe
+G:\HF_CSharp_study\Chapter_10\WriteADeck\bin\Debug\net6.0\WriteADeck.deps.json
+G:\HF_CSharp_study\Chapter_10\WriteADeck\bin\Debug\net6.0\WriteADeck.runtimeconfig.json
+G:\HF_CSharp_study\Chapter_10\WriteADeck\bin\Debug\net6.0\WriteADeck.dll
+G:\HF_CSharp_study\Chapter_10\WriteADeck\bin\Debug\net6.0\WriteADeck.pdb
+G:\HF_CSharp_study\Chapter_10\WriteADeck\obj\Debug\net6.0\WriteADeck.csproj.AssemblyReference.cache
+G:\HF_CSharp_study\Chapter_10\WriteADeck\obj\Debug\net6.0\WriteADeck.GeneratedMSBuildEditorConfig.editorconfig
+G:\HF_CSharp_study\Chapter_10\WriteADeck\obj\Debug\net6.0\WriteADeck.AssemblyInfoInputs.cache
+G:\HF_CSharp_study\Chapter_10\WriteADeck\obj\Debug\net6.0\WriteADeck.AssemblyInfo.cs
+G:\HF_CSharp_study\Chapter_10\WriteADeck\obj\Debug\net6.0\WriteADeck.csproj.CoreCompileInputs.cache
+G:\HF_CSharp_study\Chapter_10\WriteADeck\obj\Debug\net6.0\WriteADeck.dll
+G:\HF_CSharp_study\Chapter_10\WriteADeck\obj\Debug\net6.0\refint\WriteADeck.dll
+G:\HF_CSharp_study\Chapter_10\WriteADeck\obj\Debug\net6.0\WriteADeck.pdb
+G:\HF_CSharp_study\Chapter_10\WriteADeck\obj\Debug\net6.0\WriteADeck.genruntimeconfig.cache
+G:\HF_CSharp_study\Chapter_10\WriteADeck\obj\Debug\net6.0\ref\WriteADeck.dll

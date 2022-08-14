@@ -1,0 +1,14 @@
+G:\HF_CSharp_study\Chapter_9\ClownWithLambdas\ClownWithLambdas\bin\Debug\netcoreapp3.1\ClownWithLambdas.exe
+G:\HF_CSharp_study\Chapter_9\ClownWithLambdas\ClownWithLambdas\bin\Debug\netcoreapp3.1\ClownWithLambdas.deps.json
+G:\HF_CSharp_study\Chapter_9\ClownWithLambdas\ClownWithLambdas\bin\Debug\netcoreapp3.1\ClownWithLambdas.runtimeconfig.json
+G:\HF_CSharp_study\Chapter_9\ClownWithLambdas\ClownWithLambdas\bin\Debug\netcoreapp3.1\ClownWithLambdas.runtimeconfig.dev.json
+G:\HF_CSharp_study\Chapter_9\ClownWithLambdas\ClownWithLambdas\bin\Debug\netcoreapp3.1\ClownWithLambdas.dll
+G:\HF_CSharp_study\Chapter_9\ClownWithLambdas\ClownWithLambdas\bin\Debug\netcoreapp3.1\ClownWithLambdas.pdb
+G:\HF_CSharp_study\Chapter_9\ClownWithLambdas\ClownWithLambdas\obj\Debug\netcoreapp3.1\ClownWithLambdas.csproj.AssemblyReference.cache
+G:\HF_CSharp_study\Chapter_9\ClownWithLambdas\ClownWithLambdas\obj\Debug\netcoreapp3.1\ClownWithLambdas.GeneratedMSBuildEditorConfig.editorconfig
+G:\HF_CSharp_study\Chapter_9\ClownWithLambdas\ClownWithLambdas\obj\Debug\netcoreapp3.1\ClownWithLambdas.AssemblyInfoInputs.cache
+G:\HF_CSharp_study\Chapter_9\ClownWithLambdas\ClownWithLambdas\obj\Debug\netcoreapp3.1\ClownWithLambdas.AssemblyInfo.cs
+G:\HF_CSharp_study\Chapter_9\ClownWithLambdas\ClownWithLambdas\obj\Debug\netcoreapp3.1\ClownWithLambdas.csproj.CoreCompileInputs.cache
+G:\HF_CSharp_study\Chapter_9\ClownWithLambdas\ClownWithLambdas\obj\Debug\netcoreapp3.1\ClownWithLambdas.dll
+G:\HF_CSharp_study\Chapter_9\ClownWithLambdas\ClownWithLambdas\obj\Debug\netcoreapp3.1\ClownWithLambdas.pdb
+G:\HF_CSharp_study\Chapter_9\ClownWithLambdas\ClownWithLambdas\obj\Debug\netcoreapp3.1\ClownWithLambdas.genruntimeconfig.cache

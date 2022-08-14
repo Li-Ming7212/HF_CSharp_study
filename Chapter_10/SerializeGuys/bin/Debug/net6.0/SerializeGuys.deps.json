@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SerializeGuys/1.0.0": {
+        "runtime": {
+          "SerializeGuys.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SerializeGuys/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+G:\HF_CSharp_study\Chapter_9\LambdaTestDrive\obj\Debug\net6.0\LambdaTestDrive.csproj.AssemblyReference.cache
+G:\HF_CSharp_study\Chapter_9\LambdaTestDrive\obj\Debug\net6.0\LambdaTestDrive.GeneratedMSBuildEditorConfig.editorconfig
+G:\HF_CSharp_study\Chapter_9\LambdaTestDrive\obj\Debug\net6.0\LambdaTestDrive.AssemblyInfoInputs.cache
+G:\HF_CSharp_study\Chapter_9\LambdaTestDrive\obj\Debug\net6.0\LambdaTestDrive.AssemblyInfo.cs
+G:\HF_CSharp_study\Chapter_9\LambdaTestDrive\obj\Debug\net6.0\LambdaTestDrive.csproj.CoreCompileInputs.cache
+G:\HF_CSharp_study\Chapter_9\LambdaTestDrive\bin\Debug\net6.0\LambdaTestDrive.exe
+G:\HF_CSharp_study\Chapter_9\LambdaTestDrive\bin\Debug\net6.0\LambdaTestDrive.deps.json
+G:\HF_CSharp_study\Chapter_9\LambdaTestDrive\bin\Debug\net6.0\LambdaTestDrive.runtimeconfig.json
+G:\HF_CSharp_study\Chapter_9\LambdaTestDrive\bin\Debug\net6.0\LambdaTestDrive.dll
+G:\HF_CSharp_study\Chapter_9\LambdaTestDrive\bin\Debug\net6.0\LambdaTestDrive.pdb
+G:\HF_CSharp_study\Chapter_9\LambdaTestDrive\obj\Debug\net6.0\LambdaTestDrive.dll
+G:\HF_CSharp_study\Chapter_9\LambdaTestDrive\obj\Debug\net6.0\refint\LambdaTestDrive.dll
+G:\HF_CSharp_study\Chapter_9\LambdaTestDrive\obj\Debug\net6.0\LambdaTestDrive.pdb
+G:\HF_CSharp_study\Chapter_9\LambdaTestDrive\obj\Debug\net6.0\LambdaTestDrive.genruntimeconfig.cache
+G:\HF_CSharp_study\Chapter_9\LambdaTestDrive\obj\Debug\net6.0\ref\LambdaTestDrive.dll

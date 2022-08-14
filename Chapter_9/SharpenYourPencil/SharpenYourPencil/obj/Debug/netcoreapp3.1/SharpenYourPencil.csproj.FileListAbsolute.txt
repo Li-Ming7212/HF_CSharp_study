@@ -1,0 +1,14 @@
+G:\HF_CSharp_study\Chapter_9\SharpenYourPencil\SharpenYourPencil\bin\Debug\netcoreapp3.1\SharpenYourPencil.exe
+G:\HF_CSharp_study\Chapter_9\SharpenYourPencil\SharpenYourPencil\bin\Debug\netcoreapp3.1\SharpenYourPencil.deps.json
+G:\HF_CSharp_study\Chapter_9\SharpenYourPencil\SharpenYourPencil\bin\Debug\netcoreapp3.1\SharpenYourPencil.runtimeconfig.json
+G:\HF_CSharp_study\Chapter_9\SharpenYourPencil\SharpenYourPencil\bin\Debug\netcoreapp3.1\SharpenYourPencil.runtimeconfig.dev.json
+G:\HF_CSharp_study\Chapter_9\SharpenYourPencil\SharpenYourPencil\bin\Debug\netcoreapp3.1\SharpenYourPencil.dll
+G:\HF_CSharp_study\Chapter_9\SharpenYourPencil\SharpenYourPencil\bin\Debug\netcoreapp3.1\SharpenYourPencil.pdb
+G:\HF_CSharp_study\Chapter_9\SharpenYourPencil\SharpenYourPencil\obj\Debug\netcoreapp3.1\SharpenYourPencil.csproj.AssemblyReference.cache
+G:\HF_CSharp_study\Chapter_9\SharpenYourPencil\SharpenYourPencil\obj\Debug\netcoreapp3.1\SharpenYourPencil.GeneratedMSBuildEditorConfig.editorconfig
+G:\HF_CSharp_study\Chapter_9\SharpenYourPencil\SharpenYourPencil\obj\Debug\netcoreapp3.1\SharpenYourPencil.AssemblyInfoInputs.cache
+G:\HF_CSharp_study\Chapter_9\SharpenYourPencil\SharpenYourPencil\obj\Debug\netcoreapp3.1\SharpenYourPencil.AssemblyInfo.cs
+G:\HF_CSharp_study\Chapter_9\SharpenYourPencil\SharpenYourPencil\obj\Debug\netcoreapp3.1\SharpenYourPencil.csproj.CoreCompileInputs.cache
+G:\HF_CSharp_study\Chapter_9\SharpenYourPencil\SharpenYourPencil\obj\Debug\netcoreapp3.1\SharpenYourPencil.dll
+G:\HF_CSharp_study\Chapter_9\SharpenYourPencil\SharpenYourPencil\obj\Debug\netcoreapp3.1\SharpenYourPencil.pdb
+G:\HF_CSharp_study\Chapter_9\SharpenYourPencil\SharpenYourPencil\obj\Debug\netcoreapp3.1\SharpenYourPencil.genruntimeconfig.cache

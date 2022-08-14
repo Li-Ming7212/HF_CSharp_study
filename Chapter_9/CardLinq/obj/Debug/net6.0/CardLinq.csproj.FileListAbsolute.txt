@@ -1,0 +1,15 @@
+G:\HF_CSharp_study\Chapter_9\CardLinq\bin\Debug\net6.0\CardLinq.exe
+G:\HF_CSharp_study\Chapter_9\CardLinq\bin\Debug\net6.0\CardLinq.deps.json
+G:\HF_CSharp_study\Chapter_9\CardLinq\bin\Debug\net6.0\CardLinq.runtimeconfig.json
+G:\HF_CSharp_study\Chapter_9\CardLinq\bin\Debug\net6.0\CardLinq.dll
+G:\HF_CSharp_study\Chapter_9\CardLinq\bin\Debug\net6.0\CardLinq.pdb
+G:\HF_CSharp_study\Chapter_9\CardLinq\obj\Debug\net6.0\CardLinq.csproj.AssemblyReference.cache
+G:\HF_CSharp_study\Chapter_9\CardLinq\obj\Debug\net6.0\CardLinq.GeneratedMSBuildEditorConfig.editorconfig
+G:\HF_CSharp_study\Chapter_9\CardLinq\obj\Debug\net6.0\CardLinq.AssemblyInfoInputs.cache
+G:\HF_CSharp_study\Chapter_9\CardLinq\obj\Debug\net6.0\CardLinq.AssemblyInfo.cs
+G:\HF_CSharp_study\Chapter_9\CardLinq\obj\Debug\net6.0\CardLinq.csproj.CoreCompileInputs.cache
+G:\HF_CSharp_study\Chapter_9\CardLinq\obj\Debug\net6.0\CardLinq.dll
+G:\HF_CSharp_study\Chapter_9\CardLinq\obj\Debug\net6.0\refint\CardLinq.dll
+G:\HF_CSharp_study\Chapter_9\CardLinq\obj\Debug\net6.0\CardLinq.pdb
+G:\HF_CSharp_study\Chapter_9\CardLinq\obj\Debug\net6.0\CardLinq.genruntimeconfig.cache
+G:\HF_CSharp_study\Chapter_9\CardLinq\obj\Debug\net6.0\ref\CardLinq.dll

@@ -1,0 +1,15 @@
+G:\HF_CSharp_study\Chapter_10\SerializeGuys\bin\Debug\net6.0\SerializeGuys.exe
+G:\HF_CSharp_study\Chapter_10\SerializeGuys\bin\Debug\net6.0\SerializeGuys.deps.json
+G:\HF_CSharp_study\Chapter_10\SerializeGuys\bin\Debug\net6.0\SerializeGuys.runtimeconfig.json
+G:\HF_CSharp_study\Chapter_10\SerializeGuys\bin\Debug\net6.0\SerializeGuys.dll
+G:\HF_CSharp_study\Chapter_10\SerializeGuys\bin\Debug\net6.0\SerializeGuys.pdb
+G:\HF_CSharp_study\Chapter_10\SerializeGuys\obj\Debug\net6.0\SerializeGuys.csproj.AssemblyReference.cache
+G:\HF_CSharp_study\Chapter_10\SerializeGuys\obj\Debug\net6.0\SerializeGuys.GeneratedMSBuildEditorConfig.editorconfig
+G:\HF_CSharp_study\Chapter_10\SerializeGuys\obj\Debug\net6.0\SerializeGuys.AssemblyInfoInputs.cache
+G:\HF_CSharp_study\Chapter_10\SerializeGuys\obj\Debug\net6.0\SerializeGuys.AssemblyInfo.cs
+G:\HF_CSharp_study\Chapter_10\SerializeGuys\obj\Debug\net6.0\SerializeGuys.csproj.CoreCompileInputs.cache
+G:\HF_CSharp_study\Chapter_10\SerializeGuys\obj\Debug\net6.0\SerializeGuys.dll
+G:\HF_CSharp_study\Chapter_10\SerializeGuys\obj\Debug\net6.0\refint\SerializeGuys.dll
+G:\HF_CSharp_study\Chapter_10\SerializeGuys\obj\Debug\net6.0\SerializeGuys.pdb
+G:\HF_CSharp_study\Chapter_10\SerializeGuys\obj\Debug\net6.0\SerializeGuys.genruntimeconfig.cache
+G:\HF_CSharp_study\Chapter_10\SerializeGuys\obj\Debug\net6.0\ref\SerializeGuys.dll
